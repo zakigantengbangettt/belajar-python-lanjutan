@@ -1,3 +1,4 @@
+
 nama_nama_buah = ['magga','apel','durian']
 print("list awal",nama_nama_buah)
 nama_nama_buah.append("rambutan")
