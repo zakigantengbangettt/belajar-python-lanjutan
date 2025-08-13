@@ -25,8 +25,8 @@ print(daftar_kata)
 print(len(daftar_kata))
 
 print("========latihan 4 ======")
-a = [1, 2, 3, 4, 5] # ini adalah data list
-b = a               # b adalah salinan dari list a
+a = [1, 2, 3, 4, 5] 
+b = a               
 c = a.copy()        
 b[1] = 20 
 c[1] = 30 
