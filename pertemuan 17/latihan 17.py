@@ -21,3 +21,4 @@ papan_catur = {}
 papan_catur[(1, 'a')] = "Benteng bodas"
 papan_catur[(8, 'h')] = "Benteng hideng"
 print(papan_catur[(1, 'a')])
+

@@ -11,7 +11,7 @@ umur_siswa = siswa["umur"]
 print(f"umur siswa nya:{umur_siswa}") # cara manggil nilai dari
 print(siswa)
 print(type(siswa))
-print("cara menggunkan dick[]")
+print("cara menggunkan dict[]")
 kontak = ("nama","cella"),("kelas", 12),("tinggal","bandung")
 kontak_juga = dict[kontak]
 print(kontak_juga)
